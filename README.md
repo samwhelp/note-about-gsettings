@@ -1,7 +1,7 @@
 
 # 首頁
 
-* [gsettings 探索筆記](https://samwhelp.github.io/note-about-archlinux/) ([GitHub](https://github.com/samwhelp/note-about-archlinux))
+* [gsettings 探索筆記](https://samwhelp.github.io/note-about-gsettings/) ([GitHub](https://github.com/samwhelp/note-about-gsettings))
 
 
 ## 主題
