@@ -1,12 +1,12 @@
 ---
-title: glib-compile-schemas 採用值順序
+title: glib-compile-schemas 「採用值」順序
 nav_order: 2010
 has_children: true
 parent: 關鍵點
 ---
 
 
-# glib-compile-schemas 採用值順序
+# glib-compile-schemas 「採用值」順序
 
 
 ## gschema 放置資料夾
