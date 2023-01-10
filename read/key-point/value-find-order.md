@@ -1,7 +1,7 @@
 ---
 title: gsettings 取值查找順序
 nav_order: 2010
-has_children: true
+has_children: false
 parent: 關鍵點
 ---
 

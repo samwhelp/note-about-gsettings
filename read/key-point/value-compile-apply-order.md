@@ -1,7 +1,7 @@
 ---
 title: glib-compile-schemas 「採用值」順序
 nav_order: 2010
-has_children: true
+has_children: false
 parent: 關鍵點
 ---
 
