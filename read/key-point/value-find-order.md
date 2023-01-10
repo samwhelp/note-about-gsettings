@@ -1,12 +1,12 @@
 ---
-title: gsettings 取值查找順序
+title: gsettings 「取值」查找順序
 nav_order: 2010
 has_children: false
 parent: 關鍵點
 ---
 
 
-# gsettings 取值查找順序
+# gsettings 「取值」查找順序
 
 
 > 以下是我做了一些實驗和觀察，所得到的結論，嘗試用我自己的理解描述出來，實際確切的流程，還是要根據程式碼的實作為準
