@@ -13,6 +13,7 @@ has_children: true
 * man 7 [dconf](https://manpages.ubuntu.com/manpages/jammy/en/man7/dconf.7.html)
 * man 1 [dconf](https://manpages.ubuntu.com/manpages/jammy/en/man1/dconf.1.html)
 * man 1 [gsettings](https://manpages.ubuntu.com/manpages/jammy/en/man1/gsettings.1.html)
+* man 1 [glib-compile-schemas](https://manpages.ubuntu.com/manpages/jammy/en/man1/glib-compile-schemas.1.html)
 
 
 ## GNOME / Document
